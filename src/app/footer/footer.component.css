@@ -1,0 +1,22 @@
+footer{
+    position: fixed;
+    background-color: #e6f16b;
+
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+footer p{
+    text-align: center;
+}
+
+/*
+
+    height: 50px;
+    background-color: red;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+*/
